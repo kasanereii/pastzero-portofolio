@@ -1,4 +1,4 @@
-# K/YO Developer Portfolio
+# PastZero Portfolio
 
 React + Vite portfolio with Supabase-backed project management and Vercel deployment.
 
