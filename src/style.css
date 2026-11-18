@@ -106,3 +106,6 @@
 @media(max-width:1150px){.hero .pz-orbit-scene{right:-7%;opacity:.55}.hero-inner{position:relative;z-index:3}}
 @media(max-width:650px){.hero .pz-orbit-scene{display:block;min-width:0;min-height:0;width:340px;height:340px;right:-165px;top:45%;opacity:.22}.pz-chip{font-size:10px;padding:8px}.pz-wordmark{font-size:29px}.pz-code-mark{font-size:29px}}
 @media(prefers-reduced-motion:reduce){.pz-orbit,.pz-orbit-dot,.pz-float,.pz-aura,.pz-tile-shine,.pz-wordmark{animation:none!important}}
+
+/* Public-first access: no Admin button or login gate on the public website. */
+.admin-panel > .btn.outline { margin: 0 0 18px; }
